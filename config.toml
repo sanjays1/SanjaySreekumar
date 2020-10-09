@@ -6,7 +6,6 @@ theme = 'hugo-theme-console'
 # Basic metadata configuration for your blog.
 title = "Sanjay Sreekumar"
 author = "Sanjay Sreekumar"
-copyright = "Copyright © 2020, Sanjay Sreekumar."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
@@ -36,7 +35,6 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Hugo ʕ•ᴥ•ʔ Bear"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
