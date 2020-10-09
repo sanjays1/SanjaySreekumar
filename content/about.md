@@ -20,13 +20,13 @@ draft: false
       "education":{
          "University of California,Berkeley":{
             "Bachelors":[
-               "Computer Science ",
+               "Computer Science",
                "Business Adminstration"
             ]
          }
       },
       "interests":[
-         "data",
+         "big data",
          "financial investing",
          "reading",
          "running",
