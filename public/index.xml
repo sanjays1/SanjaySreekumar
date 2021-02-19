@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sanjay Sreekumar</title>
-    <link>https://sanjaysreekumar.com/</link>
-    <description>Recent content on Sanjay Sreekumar</description>
+    <title>Home on Sanjay</title>
+    <link>https://www.sanjaysreekumar.com/</link>
+    <description>Recent content in Home on Sanjay</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://sanjaysreekumar.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Feb 2021 00:52:11 -0500</lastBuildDate><atom:link href="https://www.sanjaysreekumar.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://sanjaysreekumar.com/about/</link>
-      <pubDate>Sun, 04 Oct 2020 18:32:14 -0700</pubDate>
+      <title>My First Post 🦃</title>
+      <link>https://www.sanjaysreekumar.com/posts/my-first-post/</link>
+      <pubDate>Thu, 18 Feb 2021 00:52:11 -0500</pubDate>
       
-      <guid>https://sanjaysreekumar.com/about/</guid>
-      <description>[ { &amp;quot;name&amp;quot;: &amp;quot;Sanjay Sreekumar&amp;quot;, &amp;quot;location&amp;quot;: &amp;quot;Washington, D.C.&amp;quot;, &amp;quot;previous_locations&amp;quot;:[ &amp;quot;Odenton, Maryland&amp;quot;, &amp;quot;Berkeley, CA&amp;quot;, &amp;quot;Fremont, CA&amp;quot; ], &amp;quot;previous_employment&amp;quot;:[ &amp;quot;Department of Defense&amp;quot; ], &amp;quot;education&amp;quot;:{ &amp;quot;University of California,Berkeley&amp;quot;:{ &amp;quot;Bachelors&amp;quot;:[ &amp;quot;Computer Science &amp;quot;, &amp;quot;Business Adminstration&amp;quot; ] } }, &amp;quot;interests&amp;quot;:[ &amp;quot;data&amp;quot;, &amp;quot;financial investing&amp;quot;, &amp;quot;reading&amp;quot;, &amp;quot;running&amp;quot;, &amp;quot;yoga&amp;quot; ] } ] </description>
+      <guid>https://www.sanjaysreekumar.com/posts/my-first-post/</guid>
+      <description>“Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey.”
+ Image and quote is from one of my favorite books, Antifragile by Nassim Nicholas Taleb.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.sanjaysreekumar.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.sanjaysreekumar.com/about/</guid>
+      <description>I spent most of my life in the San Francisco Bay Area, graduating college from UC Berkeley with degrees in computer science and business adminstration. (Go Bears!)
+Currently I&amp;rsquo;m at C3.ai. Before that I was at the Department of Defense.
+I&amp;rsquo;m particularly interested in data and entrepreneurship. Also I enjoy good food and making people laugh.
+For Robots 🤖 [ { &amp;#34;name&amp;#34;: &amp;#34;Sanjay Sreekumar&amp;#34;, &amp;#34;location&amp;#34;: &amp;#34;Washington, D.C.&amp;#34;, &amp;#34;previous_locations&amp;#34;:[ &amp;#34;Odenton, Maryland&amp;#34;, &amp;#34;Berkeley, CA&amp;#34;, &amp;#34;Fremont, CA&amp;#34; ], &amp;#34;current_employment&amp;#34;:&amp;#34;C3.</description>
     </item>
     
   </channel>
