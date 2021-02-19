@@ -1,19 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml">
-    
-        
-        <url>
-            <loc>https://sanjaysreekumar.com/about/</loc>
-            <lastmod>2020-10-04T18:32:14-07:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://sanjaysreekumar.com/</loc>
-            <priority>0</priority>
-        </url>
-        
-    
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.sanjaysreekumar.com/</loc>
+    <lastmod>2021-02-18T00:52:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sanjaysreekumar.com/posts/my-first-post/</loc>
+    <lastmod>2021-02-18T00:52:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sanjaysreekumar.com/posts/</loc>
+    <lastmod>2021-02-18T00:52:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.sanjaysreekumar.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.sanjaysreekumar.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.sanjaysreekumar.com/tags/</loc>
+  </url>
+  
 </urlset>

@@ -1,55 +1,35 @@
 baseURL = "https://www.sanjaysreekumar.com/"
+languageCode = "en-us"
+title = "Sanjay"
+theme = "hugo-classic"
+googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
 
-# The name of this wonderful theme ;-).
-theme = 'hugo-theme-console'
-
-# Basic metadata configuration for your blog.
-title = "Sanjay Sreekumar"
-author = "Sanjay Sreekumar"
-languageCode = "en-US"
-
-# Generate a nice robots.txt for SEO
-enableRobotsTXT = true
-
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
-disableKinds = ["taxonomy"]
-ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+    post = "/post/:year/:month/:day/:slug/"
 
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+[[menu.feed]]
+    name = "RSS"
+    url = "/index.xml"
+[markup]
+  defaultMarkdownHandler = "blackfriday"
 [params]
-  # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Sanjay Sreekumar's Personal Website"
+    description = "A simple, minimal blog for those who love text."
+    footer = "Draco Dormiens Nunquam Titillandus | [Twitter](https://twitter.com/sreekumar_sanj) | [LinkedIn](https://www.linkedin.com/in/sanjaysree/)"
+    custom_css = ["css/theme-override.css"]
 
-  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
-  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
-  favicon = "images/favicon.png"
-
-  # These "images" are used for the structured data templates. This will show up, when
-  # services like Twitter or Slack want to generate a preview of a link to your site.
-  # See https://gohugo.io/templates/internal#twitter-cards and
-  # https://gohugo.io/templates/internal#open-graph.
-  images = ["images/share.png"]
-
-  # Another "title" :-). This one is used as the site_name on the Hugo's internal
-  # opengraph structured data template.
-  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-
-  # This theme will, by default, inject a made-with-line at the bottom of the page.
-  # You can turn it off, but we would really appreciate if you don’t :-).
-  # hideMadeWithLine = true
-  # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = false
-
-  [[params.navlinks]]
-  name = "about/"
-  url = "about/"
-
-  #[[params.navlinks]]
-  #name = "posts/"
-  #url = "posts/"
   
-  #[[params.navlinks]]
-  #name = "photos/"
-  #url = "photos/"
